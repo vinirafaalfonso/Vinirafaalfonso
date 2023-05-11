@@ -1,6 +1,6 @@
 <h1>Olá, Eu sou o Vinicius Alfonso!!</h1>
 
-<h2>Atualmente estudo front end focando em HTML/ CSS/ JAVASCRIPT/ REACTJS/ TYPESCRIPT </h2>
+<h2>Atualmente estudo front end focando em POWER BI/ UI/UX/ HTML/ CSS/ JAVASCRIPT/ REACTJS/ TYPESCRIPT </h2>
 
 <h2>Cursando Engenharia de Software - UNINTER</h2>
 
